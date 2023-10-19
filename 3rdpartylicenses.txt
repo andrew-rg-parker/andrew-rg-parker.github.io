@@ -66,13 +66,13 @@ MIT
 @biesbjerg/ngx-translate-extract-marker
 MIT
 
-@gen-parker/shared/modules/util-angular-material
-
 @gen-parker/shared/styling/util-angular
 
 @gen-parker/shared/ui-components
 
 @gen-parker/shared/util-helpers
+
+@gen-parker/shared/util-modules
 
 @gen-parker/shared/util-pipe
 
